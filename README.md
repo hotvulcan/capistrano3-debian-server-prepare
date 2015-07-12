@@ -1,4 +1,8 @@
-# capistrano3-ubuntu-server-prepare
+# capistrano3-debian-server-prepare
+
+This is a debian port of capistrano3-ubuntu-server-prepare. Ported from goooseman/capistrano3-ubuntu-server-prepare.
+
+I'll make sure all the configure files work on debian. And I'll use Openresty instead of bear nginx. (Openresty is a full-fledged web application server by bundling the standard Nginx core, lots of 3rd-party Nginx modules, as well as most of their external dependencies. )
 
 This Capistrano (v3) task helps you to configure your blank ubuntu server before your first  deploy.
 
